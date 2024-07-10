@@ -3,7 +3,6 @@ import React, { ReactNode, useState } from 'react';
 import Menu from '../_components/Menus/Menu';
 import Footer from './Footer';
 import { motion, SVGMotionProps } from 'framer-motion'
-import Hamburger from '../_components/UI/hamburger';
 
 interface SideNavProps {
   children: ReactNode;
