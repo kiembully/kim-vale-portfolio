@@ -31,7 +31,7 @@ export const resume = [
     ],
   },
   {
-    date: '',
+    date: '2017 - 2022',
     company: 'UpYo',
     position: 'Frontend Associate Developer',
     description: 'NFT Marketplace exclusive in UAE regions.',
@@ -41,7 +41,7 @@ export const resume = [
     ],
   },
   {
-    date: '2017 - 2022',
+    date: '',
     company: '24Task Virtual Solutions',
     position: 'Lead Frontend Developer',
     description: 'Outsourcing business.',
