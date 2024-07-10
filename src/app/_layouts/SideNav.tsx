@@ -37,7 +37,7 @@ const SideNavLayout: React.FC<SideNavProps> = ({ children }) => {
         <div className="bg-gray-100 dark:bg-background-dark min-h-screen border-none md:border-t md:border-l border-neutral-300 rounded-none md:rounded-tl-xl overflow-hidden">
           {children}
           <Footer />
-          <div className="absolute top-4 right-4 z-50 dark:invert">
+          <div className="absolute top-4 right-4 z-50 dark:invert block md:hidden">
               <button onClick={handleToggle}>
                 <svg width="32" height="32" viewBox="0 0 24 24">
                   <motion.path
