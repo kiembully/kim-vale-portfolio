@@ -117,9 +117,9 @@ export const projects = [
     thumbnail:"/products/24task.png",
   },
   {
-    title: "CheapestEssay",
-    link: "https://www.cheapestessay.com",
-    thumbnail:"/products/cheapestessay.png",
+    title: "SuperManila Comic Con",
+    link: "https://www.supermanila.ph",
+    thumbnail:"/products/supermanila.png",
   },
   {
     title: "Redline Coin",
@@ -127,9 +127,9 @@ export const projects = [
     thumbnail:"/products/redlinecoin.png",
   },
   {
-    title: "Metrobank",
-    link: "https://www.metrobank.com.ph/home",
-    thumbnail:"/products/metrobank.png",
+    title: "SuperManila Comic Con",
+    link: "https://www.supermanila.ph",
+    thumbnail:"/products/supermanila.png",
   },
   {
     title: "Singlife",
@@ -224,5 +224,12 @@ export const allProject = [
     thumbnail:"/products/aicmo.png",
     description: 'AI-Powered Marketing Copilot',
     tech: ['NextJS', 'NodeJS', 'TailwindCSS']
+  },
+  {
+    title: "SuperManila Comic Con",
+    link: "https://www.supermanila.ph",
+    thumbnail:"/products/supermanila.png",
+    description: 'SuperManila Comic Con celebrates Filipino creativity in comics, entertainment & pop culture!',
+    tech: ['NextJS', 'TailwindCSS']
   },
 ];
